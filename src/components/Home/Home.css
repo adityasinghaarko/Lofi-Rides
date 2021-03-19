@@ -1,0 +1,26 @@
+.home{
+    text-align: center;
+    background-image: url(../../images/Bg.png);
+    height: 100%;
+
+}
+
+.ride-category-row{
+    padding: 10px;
+    text-align: center;
+}
+.ride-category-card{
+    text-align: center;
+    padding: 5px;
+    margin: 10px;
+    height: 250px;
+    width: 250px;
+    border-radius: 20px;
+    background-color: white;
+}
+.ride-category-card:hover{
+    box-shadow: 10px 10px 20px skyblue;
+}
+.ride-category-card img{
+    height: 150px;
+}
