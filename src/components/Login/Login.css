@@ -2,10 +2,23 @@
     text-align: center;
 }
 
-input{
+.login-page{
+    background-color:inherit;
+    padding: 30px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.form-input{
     width: 500px;
     height:30px;
     margin: 10px;
     border: 2px solid grey;
     border-radius:10px;
+}
+
+.auth-form{
+    border-top: 1px solid grey;
+    border-bottom: 1px solid grey;
+    padding: 30px;
 }

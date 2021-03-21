@@ -1,0 +1,35 @@
+[
+    {
+        "vehicle": "bike",
+        "info": {
+                "passengers": 2,
+                "budget": 40
+            }
+        
+    },
+    {
+        "vehicle": "bus",
+        "info": {
+                "passengers": 2,
+                "budget": 10
+            }
+        
+    },
+    {
+        "vehicle": "car",
+        "info": {
+                "passengers": 2,
+                "budget": 60
+            }
+        
+    },
+    {
+        "vehicle": "train",
+        "info": {
+                "passengers": 2,
+                "budget": 20
+            }
+        
+    }
+
+]
